@@ -1,0 +1,20 @@
+{
+  "python.analysis.extraPaths": [
+    "/Users/lloyd/.vscode/extensions/ms-security.ms-sentinel-2.0.0/python"
+  ]
+}
+
+{
+    "editor.quickSuggestions": {
+        "comments": "off",
+        "strings": "off",
+        "other": "off"
+    },
+    "editor.inlineSuggest.enabled": false,
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.wordBasedSuggestions": "off",
+    "editor.hover.enabled": false,
+    "github.copilot.editor.enableAutoCompletions": false
+}
